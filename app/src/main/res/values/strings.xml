@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidSensors</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="light"></string>
+    <string name="x"></string>
+    <string name="y"></string>
+    <string name="z"></string>
+    <string name="snare_drum">Snare</string>
+    <string name="crash_cymbal">Crash Cymbal</string>
+    <string name="hi_hat_cymbal">Hi Hat Cymbal</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
